@@ -1,0 +1,14 @@
+# Constructed from biom file
+# OTU ID	Unspecified	taxonomy	taxid
+1486	2.0	sk__Eukaryota;k__Fungi;p__Ascomycota	
+1726	1.0	sk__Eukaryota;k__Fungi;p__Ascomycota;c__Dothideomycetes	
+4242	1.0	sk__Eukaryota;k__Fungi;p__Ascomycota;c__Dothideomycetes;o__Pleosporales	
+17177	5.0	sk__Eukaryota;k__Fungi;p__Ascomycota;c__Saccharomycetes;o__Saccharomycetales	
+17635	5.0	sk__Eukaryota;k__Fungi;p__Ascomycota;c__Saccharomycetes;o__Saccharomycetales;f__Saccharomycetaceae	
+17651	1.0	sk__Eukaryota;k__Fungi;p__Ascomycota;c__Saccharomycetes;o__Saccharomycetales;f__Saccharomycetaceae;g__Issatchenkia	
+17727	3461.0	sk__Eukaryota;k__Fungi;p__Ascomycota;c__Saccharomycetes;o__Saccharomycetales;f__Saccharomycetaceae;g__Saccharomyces	
+17731	86011.0	sk__Eukaryota;k__Fungi;p__Ascomycota;c__Saccharomycetes;o__Saccharomycetales;f__Saccharomycetaceae;g__Saccharomyces;s__Saccharomyces_cerevisiae	
+17737	20850.0	sk__Eukaryota;k__Fungi;p__Ascomycota;c__Saccharomycetes;o__Saccharomycetales;f__Saccharomycetaceae;g__Saccharomyces;s__Saccharomyces_sp	
+20906	1.0	sk__Eukaryota;k__Fungi;p__Ascomycota;c__Sordariomycetes;o__Hypocreales;f__Hypocreales_fam_Incertae_sedis;g__Sarocladium	
+25117	3.0	sk__Eukaryota;k__Fungi;p__Basidiomycota	
+34066	1.0	sk__Eukaryota;k__Fungi;p__Basidiomycota;c__Agaricomycetes;o__Polyporales	

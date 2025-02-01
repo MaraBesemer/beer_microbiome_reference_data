@@ -1,0 +1,14 @@
+# Constructed from biom file
+# OTU ID	Unspecified	taxonomy	taxid
+1470	1.0	sk__Eukaryota;k__Fungi	
+1486	1.0	sk__Eukaryota;k__Fungi;p__Ascomycota	
+2309	3.0	sk__Eukaryota;k__Fungi;p__Ascomycota;c__Dothideomycetes;o__Capnodiales;f__Cladosporiaceae;g__Cladosporium	
+5957	1.0	sk__Eukaryota;k__Fungi;p__Ascomycota;c__Dothideomycetes;o__Pleosporales;f__Pleosporaceae;g__Bipolaris	
+7852	2.0	sk__Eukaryota;k__Fungi;p__Ascomycota;c__Eurotiomycetes;o__Eurotiales;f__Aspergillaceae;g__Penicillium	
+17177	1.0	sk__Eukaryota;k__Fungi;p__Ascomycota;c__Saccharomycetes;o__Saccharomycetales	
+17532	33.0	sk__Eukaryota;k__Fungi;p__Ascomycota;c__Saccharomycetes;o__Saccharomycetales;f__Pichiaceae;g__Dekkera	
+17534	194215.0	sk__Eukaryota;k__Fungi;p__Ascomycota;c__Saccharomycetes;o__Saccharomycetales;f__Pichiaceae;g__Dekkera;s__Dekkera_bruxellensis	
+17727	3351.0	sk__Eukaryota;k__Fungi;p__Ascomycota;c__Saccharomycetes;o__Saccharomycetales;f__Saccharomycetaceae;g__Saccharomyces	
+17731	2035.0	sk__Eukaryota;k__Fungi;p__Ascomycota;c__Saccharomycetes;o__Saccharomycetales;f__Saccharomycetaceae;g__Saccharomyces;s__Saccharomyces_cerevisiae	
+17737	6657.0	sk__Eukaryota;k__Fungi;p__Ascomycota;c__Saccharomycetes;o__Saccharomycetales;f__Saccharomycetaceae;g__Saccharomyces;s__Saccharomyces_sp	
+25117	2.0	sk__Eukaryota;k__Fungi;p__Basidiomycota	

@@ -1,0 +1,22 @@
+# Constructed from biom file
+# OTU ID	Unspecified	taxonomy	taxid
+1470	5.0	sk__Eukaryota;k__Fungi	
+1486	1.0	sk__Eukaryota;k__Fungi;p__Ascomycota	
+2309	1.0	sk__Eukaryota;k__Fungi;p__Ascomycota;c__Dothideomycetes;o__Capnodiales;f__Cladosporiaceae;g__Cladosporium	
+7425	1.0	sk__Eukaryota;k__Fungi;p__Ascomycota;c__Eurotiomycetes;o__Eurotiales;f__Aspergillaceae;g__Aspergillus	
+17177	833.0	sk__Eukaryota;k__Fungi;p__Ascomycota;c__Saccharomycetes;o__Saccharomycetales	
+17395	1.0	sk__Eukaryota;k__Fungi;p__Ascomycota;c__Saccharomycetes;o__Saccharomycetales;f__Metschnikowiaceae;g__Clavispora;s__Clavispora_lusitaniae	
+17462	1.0	sk__Eukaryota;k__Fungi;p__Ascomycota;c__Saccharomycetes;o__Saccharomycetales;f__Phaffomycetaceae;g__Cyberlindnera	
+17525	5226.0	sk__Eukaryota;k__Fungi;p__Ascomycota;c__Saccharomycetes;o__Saccharomycetales;f__Pichiaceae	
+17532	40.0	sk__Eukaryota;k__Fungi;p__Ascomycota;c__Saccharomycetes;o__Saccharomycetales;f__Pichiaceae;g__Dekkera	
+17533	1.0	sk__Eukaryota;k__Fungi;p__Ascomycota;c__Saccharomycetes;o__Saccharomycetales;f__Pichiaceae;g__Dekkera;s__Dekkera_anomala	
+17534	37368.0	sk__Eukaryota;k__Fungi;p__Ascomycota;c__Saccharomycetes;o__Saccharomycetales;f__Pichiaceae;g__Dekkera;s__Dekkera_bruxellensis	
+17635	15.0	sk__Eukaryota;k__Fungi;p__Ascomycota;c__Saccharomycetes;o__Saccharomycetales;f__Saccharomycetaceae	
+17727	496.0	sk__Eukaryota;k__Fungi;p__Ascomycota;c__Saccharomycetes;o__Saccharomycetales;f__Saccharomycetaceae;g__Saccharomyces	
+17731	137495.0	sk__Eukaryota;k__Fungi;p__Ascomycota;c__Saccharomycetes;o__Saccharomycetales;f__Saccharomycetaceae;g__Saccharomyces;s__Saccharomyces_cerevisiae	
+17737	31899.0	sk__Eukaryota;k__Fungi;p__Ascomycota;c__Saccharomycetes;o__Saccharomycetales;f__Saccharomycetaceae;g__Saccharomyces;s__Saccharomyces_sp	
+18040	1.0	sk__Eukaryota;k__Fungi;p__Ascomycota;c__Saccharomycetes;o__Saccharomycetales;f__Saccharomycetales_fam_Incertae_sedis;g__Candida;s__Candida_solani	
+18176	6.0	sk__Eukaryota;k__Fungi;p__Ascomycota;c__Saccharomycetes;o__Saccharomycetales;f__Saccharomycodaceae	
+18199	7310.0	sk__Eukaryota;k__Fungi;p__Ascomycota;c__Saccharomycetes;o__Saccharomycetales;f__Saccharomycodaceae;g__Saccharomycodes;s__Saccharomycodes_ludwigii	
+21206	1.0	sk__Eukaryota;k__Fungi;p__Ascomycota;c__Sordariomycetes;o__Hypocreales;f__Nectriaceae;g__Fusarium	
+38733	1.0	sk__Eukaryota;k__Fungi;p__Basidiomycota;c__Tremellomycetes;o__Tremellales;f__Bulleribasidiaceae;g__Hannaella	

@@ -1,0 +1,19 @@
+# Constructed from biom file
+# OTU ID	Unspecified	taxonomy	taxid
+1470	22.0	sk__Eukaryota;k__Fungi	
+16505	2.0	sk__Eukaryota;k__Fungi;p__Ascomycota;c__Pezizomycetes;o__Pezizales;f__Pyronemataceae	
+17172	2.0	sk__Eukaryota;k__Fungi;p__Ascomycota;c__Saccharomycetes	
+17176	3.0	sk__Eukaryota;k__Fungi;p__Ascomycota;c__Saccharomycetes;o__;f__;g__;s__Saccharomycetes_sp	
+17177	119.0	sk__Eukaryota;k__Fungi;p__Ascomycota;c__Saccharomycetes;o__Saccharomycetales	
+17389	43.0	sk__Eukaryota;k__Fungi;p__Ascomycota;c__Saccharomycetes;o__Saccharomycetales;f__Metschnikowiaceae	
+17410	33.0	sk__Eukaryota;k__Fungi;p__Ascomycota;c__Saccharomycetes;o__Saccharomycetales;f__Metschnikowiaceae;g__Metschnikowia	
+17446	17.0	sk__Eukaryota;k__Fungi;p__Ascomycota;c__Saccharomycetes;o__Saccharomycetales;f__Metschnikowiaceae;g__Metschnikowia;s__Metschnikowia_sp	
+17525	1102.0	sk__Eukaryota;k__Fungi;p__Ascomycota;c__Saccharomycetes;o__Saccharomycetales;f__Pichiaceae	
+17532	15594.0	sk__Eukaryota;k__Fungi;p__Ascomycota;c__Saccharomycetes;o__Saccharomycetales;f__Pichiaceae;g__Dekkera	
+17534	66517.0	sk__Eukaryota;k__Fungi;p__Ascomycota;c__Saccharomycetes;o__Saccharomycetales;f__Pichiaceae;g__Dekkera;s__Dekkera_bruxellensis	
+17727	4.0	sk__Eukaryota;k__Fungi;p__Ascomycota;c__Saccharomycetes;o__Saccharomycetales;f__Saccharomycetaceae;g__Saccharomyces	
+17731	6.0	sk__Eukaryota;k__Fungi;p__Ascomycota;c__Saccharomycetes;o__Saccharomycetales;f__Saccharomycetaceae;g__Saccharomyces;s__Saccharomyces_cerevisiae	
+17737	1.0	sk__Eukaryota;k__Fungi;p__Ascomycota;c__Saccharomycetes;o__Saccharomycetales;f__Saccharomycetaceae;g__Saccharomyces;s__Saccharomyces_sp	
+18176	1.0	sk__Eukaryota;k__Fungi;p__Ascomycota;c__Saccharomycetes;o__Saccharomycetales;f__Saccharomycodaceae	
+18179	1.0	sk__Eukaryota;k__Fungi;p__Ascomycota;c__Saccharomycetes;o__Saccharomycetales;f__Saccharomycodaceae;g__Hanseniaspora	
+23045	1.0	sk__Eukaryota;k__Fungi;p__Ascomycota;c__Sordariomycetes;o__Sordariales	
