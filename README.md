@@ -7,8 +7,9 @@
 
 ## Repository Structure  
 
-- **`otu_its_unite_reference.tsv`** – Reference OTU table from the ITS UNITE database, formatted for microbiome analysis.  
-- **`metadata_reference.tsv`** – Corresponding metadata for the OTU table, including beer sample details (beer brand, brewery, country).  
+- **`OTU_ITS_UNITE/`** – Directory containing OTU reference files.  
+- **`OTU_ITS_UNITE_REFERENCE.zip`** – Compressed file containing the OTU reference dataset (for easy downloading).  
+- **`metadata_ref.txt`** – Metadata file containing beer sample details (e.g., beer brand, brewery, country).   
 
 ---
 
