@@ -10,7 +10,7 @@
 - **`OTU_ITS_UNITE/`** – Directory containing OTU reference files.  
 - **`OTU_ITS_UNITE_REFERENCE.zip`** – Compressed file containing the OTU reference dataset (for easy downloading).  
 - **`metadata_ref.txt`** – Metadata file containing beer sample details (e.g., beer brand, brewery, country).
-- **`Overview_table.xlsx`** – Overview tables of studys and metadata of beer samples
+- **`Overview_Table.xlsx`** – Overview tables of studys and metadata of beer samples
 
 ---
 
